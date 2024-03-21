@@ -4,6 +4,8 @@ First, you need to add dependencies to your pom.xml if you're using Maven:
 
 xml
 Copy code
+
+
 <dependency>
     <groupId>org.mnode.ical4j</groupId>
     <artifactId>ical4j</artifactId>
@@ -14,6 +16,8 @@ Copy code
     <artifactId>gson</artifactId>
     <version>2.8.8</version>
 </dependency>
+
+
 Here's a sample Java code to convert an ICS file to JSON:
 
 java
